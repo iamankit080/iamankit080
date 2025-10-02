@@ -1,3 +1,28 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi there, I'm Ankit Kumar 👋</h1>
+<h3 align="center">System Engineer @ TCS | DSA Enthusiast | Full Stack Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TCS-System%20Engineer-blue?style=for-the-badge&logo=tata&logoColor=white" />
+  <img src="https://img.shields.io/badge/Learning-System%20Design-orange?style=for-the-badge&logo=airplayaudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-DSA%20&%20Backend-green?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamankit080&label=Profile%20views&color=0e75b6&style=flat" alt="iamankit080" /> </p>
+
+---
+
+- 🔭 I’m currently working on **Full Stack Projects**
+- 🌱 I’m currently learning **Advanced DSA topics & System Design**
+- 👯 I’m looking to collaborate with **passionate developers**
+- 💬 Ask me about **DSA and Full Stack Development**
+- 📫 Reach me at **ankitgupta8504@gmail.com**
+- ⚡ Fun fact: **I love watching Cricket & playing Badminton**
+
+---
+
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
   <a href="https://twitter.com/prognoobss" target="_blank">
@@ -26,7 +51,7 @@
   </a>
 </p>
 
----
+<br/> <!-- Spacing -->
 
 <h3 align="left">🛠 Languages and Tools:</h3>
 <p align="left">
@@ -45,3 +70,15 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
+
+---
+
+<h3 align="left">☕ Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ankitguptah"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ankitguptah" /></a></p>
+
+---
+
+📊 **GitHub Stats**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamankit080&show_icons=true&locale=en&layout=compact" alt="iamankit080" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamankit080&show_icons=true&locale=en" alt="iamankit080" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamankit080&" alt="iamankit080" /></p>
