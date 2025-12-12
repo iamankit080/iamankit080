@@ -25,7 +25,7 @@
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/prognoobss" target="_blank">
+  <a href="https://twitter.com/iamankit080" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Recursion" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ankit-kumar-barnwal-4308b616a/" target="_blank">
